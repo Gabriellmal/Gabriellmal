@@ -1,5 +1,5 @@
 # 💫 About Me:
-im gabriel a 16 years old devloper who likes Ai and workes with it <br>i train Ai <br>and a ML certifcate <br>i work with apis, webs,ML,python,c++ coming soon more <br>Hope you like one of my projects
+im gabriel a 16 years old developer who likes Ai and workes with it <br>i train Ai <br>and a ML certifcate <br>i work with apis, webs,ML,python,c++ coming soon more <br>Hope you like one of my projects
 
 
 ## 🌐 Socials:
